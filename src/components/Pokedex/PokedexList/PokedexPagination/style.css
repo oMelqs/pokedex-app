@@ -1,0 +1,16 @@
+.pagination {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.pagination-button {
+  background-color: white;
+  border: none;
+  padding: 32px;
+  cursor: pointer;
+}
+
+.pagination-button-image {
+  width: 30px;
+}

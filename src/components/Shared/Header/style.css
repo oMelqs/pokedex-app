@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #cc0000;
+}
+
+.header-img {
+  width: 400px;
+  padding: 32px;
+}

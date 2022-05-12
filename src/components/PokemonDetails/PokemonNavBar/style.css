@@ -1,0 +1,19 @@
+.pokemon-nav-bar {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1% 1% 0% 1%;
+}
+
+.pokemon-nav-bar-id {
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.pokemonNavBar-button-container {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}

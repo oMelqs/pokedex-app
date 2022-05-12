@@ -1,0 +1,10 @@
+.random-button {
+  background-color: white;
+  border: none;
+  padding: 32px;
+  cursor: pointer;
+}
+
+.random-button-image {
+  width: 30px;
+}

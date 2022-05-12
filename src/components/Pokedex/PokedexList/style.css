@@ -1,0 +1,23 @@
+.pokemons-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.controller-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.filter-select {
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid #ccc;
+  font-size: 1.2rem;
+}
