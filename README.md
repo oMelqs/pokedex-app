@@ -21,7 +21,7 @@
 ## 🚀 Installation
 
 ```
-$ git clone https://github.com/oMelqs/ciandt-tech-challenge.git
+$ git clone https://github.com/oMelqs/pokedex-app
 $ cd to the directory
 $ npm (or yarn) install
 $ npm (or yarn) start
